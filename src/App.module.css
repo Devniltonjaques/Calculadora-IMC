@@ -12,7 +12,7 @@ header {
 }
 
 span {
-    color: #838B92;
+    color: #9b9ea1;
 }
 
 .container {
@@ -21,7 +21,7 @@ span {
     margin: auto;
 }
 
-.container .lefSide {
+.container .leftSide {
     flex: 1;
 }
 
